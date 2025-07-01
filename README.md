@@ -12,10 +12,11 @@ Day 04(25th june)- applying various models and practical implementation using sc
 Day 05(26th june)- Deep learning basics with Neural Networks and getting started with <b><i>PyTorch</i></b>
 Day 06(27th june)- understanding what are activation function and loss function, their types and case specific usage
 Day 07(28th june)- learning different optimization functions
-Day 08(29th june)- going deeper into RNN
+Day 08(29th june)- going deeper into FNN
                     -trying multiple hidden layer structures
                     -template for using a custom dataset
-                    -hyper parameter tuning for RNN's     
+                    -hyper parameter tuning for RNN's  
+Day 09(30th june)- starting with CNN (why to use cnn over FNN and it's key terms)   
 </pre>
 <br>
 For notes, resources or my learning path connect to me.
