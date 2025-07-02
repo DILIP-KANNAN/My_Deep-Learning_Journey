@@ -15,8 +15,10 @@ Day 07(28th june)- learning different optimization functions
 Day 08(29th june)- going deeper into FNN
                     -trying multiple hidden layer structures
                     -template for using a custom dataset
-                    -hyper parameter tuning for RNN's  
-Day 09(30th june)- starting with CNN (why to use cnn over FNN and it's key terms)   
+                    -hyper parameter tuning for FNN's  
+Day 09(30th june)- starting with CNN (why to use CNN over FNN and it's key terms)
+Day 10(1st july)-  deeper into CNN
+                    -components, activation functions,etc.,.
 </pre>
 <br>
 For notes, resources or my learning path connect to me.
