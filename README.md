@@ -19,6 +19,7 @@ Day 08(29th june)- going deeper into FNN
 Day 09(30th june)- starting with CNN (why to use CNN over FNN and it's key terms)
 Day 10(1st july)-  deeper into CNN
                     -components, activation functions,etc.,.
+Day 11(2nd july)-  pooling and feature mapping in CNNs 
 </pre>
 <br>
 For notes, resources or my learning path connect to me.
